@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elizarai02
 - 👀 I’m interested in creating a portfolio to showcase my growth in coding.
 - 🌱 I’m currently learning Intro to Coding and Intro to Python through Code First Girls.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 Reach me on LinkedIn 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Biomedical Sciences student and I like playing guitar.
